@@ -17,7 +17,7 @@
    - Iterative Model 
 ## Project Scope:
     
-    The scope of the project includes the development of a comprehensive rent management system with the following key features:
+ The scope of the project includes the development of a comprehensive rent management system with the following key features:
 
    - Property and tenant information management
    - Rent calculation and payment processing
@@ -26,7 +26,7 @@
    - User authentication and authorization 
 ## Iterative SDLC Approach:
     
-    The Iterative SDLC model was chosen to accommodate potential changes in requirements and to allow for continuous feedback from stakeholders. The development process is divided into iterations, with each iteration building upon the previous one. This approach facilitates early delivery of functionality and incorporates user feedback for refinement.
+  The Iterative SDLC model was chosen to accommodate potential changes in requirements and to allow for continuous feedback from stakeholders. The development process is divided into iterations, with each iteration building upon the previous one. This approach facilitates early delivery of functionality and incorporates user feedback for refinement.
 ## Project Phases:
    
    The project is organized into the following iterative phases:
@@ -35,19 +35,19 @@
    Define project goals, scope, and requirements. Identify key stakeholders and establish communication channels.
    ### Iteration 1 - Basic Functionality:
        
-       - Develop core modules for property and tenant management.
-       - Implement basic rent calculation and payment processing functionality.
+   - Develop core modules for property and tenant management.
+   - Implement basic rent calculation and payment processing functionality.
    ### Iteration 2 - Enhancements and Feedback:
       
-      - Incorporate user feedback from Iteration 1.
-      - Introduce additional features like maintenance tracking and reporting.
+   - Incorporate user feedback from Iteration 1.
+   - Introduce additional features like maintenance tracking and reporting.
    ### Iteration 3 - User Interface Refinement:
 
-      - Focus on improving the user interface based on usability feedback.
-      - Refine existing features and address any issues identified.
+   - Focus on improving the user interface based on usability feedback.
+   - Refine existing features and address any issues identified.
    ### Iteration 4 - Advanced Features:
 
-      - Introduce advanced features such as automated notifications, integration with financial systems, and enhanced reporting capabilities.
+   - Introduce advanced features such as automated notifications, integration with financial systems, and enhanced reporting capabilities.
 
 ## Technologies Used:
   - Frontend: HTML5, CSS3, JavaScript, React.js
