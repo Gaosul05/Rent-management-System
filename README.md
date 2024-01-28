@@ -79,8 +79,8 @@
   - Expansion to support multiple languages and currencies.
 
 # Submitted By:
- ### Name: Maharaj Mithu
- ### ID: 2002053
+ ### Name: Md. Gaosul Azam Mridul
+ ### ID: 2002045
  ### L-3 S-I
  ### Department: CSE
 
